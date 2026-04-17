@@ -8,4 +8,5 @@ As I did not want to train the AI based on truly pristine (and therefore not sim
 
 I would like to say this project is purely demonstrative and showcases that I can develop the pipeline in full from PyTorch training to ONNX conversion.
 
-<img width="1500" height="2000" alt="WhatsApp Image 2026-04-17 at 23 18 58" src="https://github.com/user-attachments/assets/85f920f6-b5d5-4c7c-b261-388889fd9338" />
+Diagram for Representation of System:
+<img width="500" height="300" alt="WhatsApp Image 2026-04-17 at 23 18 58" src="https://github.com/user-attachments/assets/64868cbf-d61c-4589-8ef8-93bb9d18f1a5" />
